@@ -1,4 +1,4 @@
-# server-http-via-ssh
+# HTTP via SSH
 Get HTTP access to your local machine through your server SSH.
 
 > Serveo is an SSH server just for remote port forwarding. When a user connects to a Serveo server, he get a public URL that anybody can use to connect to their localhost server.
